@@ -1,6 +1,6 @@
 # API-Testing-Framework
 
-A tool to help facilitate some automated checks for manual testing.  
+A tool to help facilitate some automated checks for manual testing.  _Should_ compile on Windows & Linux.
 
 # Detections
 - Rate Limiting
