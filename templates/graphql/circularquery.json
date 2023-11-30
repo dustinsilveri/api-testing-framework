@@ -1,0 +1,1 @@
+{"query":"query {\n    ...A\n}\n\nfragment A on PasteObject {\n    content\n    title\n    ...B\n}\n\nfragment B on PasteObject {\n    content\n    title\n    ...A\n}","variables":{},"operationName":null}
